@@ -8,7 +8,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusButchaka&show_icons=true&theme=transparent&count_private=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusButchaka&layout=compact&theme=transparent)](https://github.com/MateusButchaka/github-readme-stats)
 
 
