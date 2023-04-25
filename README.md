@@ -3,7 +3,7 @@
 
 - 🔭 Trabalho com Front-end
 - 🌱 Estudando JavaScript
-- 😄 Pronouns: Ele/dele
+
 
 
 
